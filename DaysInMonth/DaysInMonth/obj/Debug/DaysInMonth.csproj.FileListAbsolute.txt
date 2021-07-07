@@ -1,0 +1,7 @@
+D:\CodeGym-ThucHanh\DaysInMonth\DaysInMonth\bin\Debug\DaysInMonth.exe.config
+D:\CodeGym-ThucHanh\DaysInMonth\DaysInMonth\bin\Debug\DaysInMonth.exe
+D:\CodeGym-ThucHanh\DaysInMonth\DaysInMonth\bin\Debug\DaysInMonth.pdb
+D:\CodeGym-ThucHanh\DaysInMonth\DaysInMonth\obj\Debug\DaysInMonth.csprojResolveAssemblyReference.cache
+D:\CodeGym-ThucHanh\DaysInMonth\DaysInMonth\obj\Debug\DaysInMonth.csproj.CoreCompileInputs.cache
+D:\CodeGym-ThucHanh\DaysInMonth\DaysInMonth\obj\Debug\DaysInMonth.exe
+D:\CodeGym-ThucHanh\DaysInMonth\DaysInMonth\obj\Debug\DaysInMonth.pdb
